@@ -6,7 +6,7 @@ const App = () => {
   return (
     <ThemeProvider>
       <div>
-        <h1>Theme Context Example</h1>
+        <h1>Dicky Fernando Sitepu Project</h1>
         <Toolbar />
       </div>
     </ThemeProvider>
