@@ -15,6 +15,12 @@ const App = () => {
         <button onClick={toggleTheme} style={{backgroundColor: 'red'}}>
                 Toggle Theme to {theme === 'light' ? 'dark' : 'light'}
             </button>
+        <button onClick={toggleTheme} style={{backgroundColor: 'red'}}>
+                Toggle Theme to {theme === 'light' ? 'dark' : 'light'}
+            </button>
+        <button onClick={toggleTheme} style={{backgroundColor: 'red'}}>
+                Toggle Theme to {theme === 'light' ? 'dark' : 'light'}
+            </button>
         <Toolbar />
       </div>
     </ThemeProvider>
